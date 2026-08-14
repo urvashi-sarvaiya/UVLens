@@ -4,7 +4,7 @@
 
 Upload a photo or PDF of any bill — UVLens extracts the text, breaks down every charge in simple terms, flags anything unusual, and tracks your spending trends over time.
 
-🔗 **Live App:** [uvlens-frontend.onrender.com](https://uvlens-frontend.onrender.com)
+🔗 **Live App:** [uvlens-frontend.onrender.com](https://uvlens.onrender.com)
 🔗 **Backend API:** [uvlens-backend.onrender.com](https://uvlens-backend.onrender.com)
 
 > **Note:** The backend runs on Render's free tier, so it may take ~50 seconds to spin up on the first request after inactivity.
